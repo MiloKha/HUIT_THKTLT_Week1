@@ -1,4 +1,6 @@
-﻿  Bai13.cpp
-D:\Zalo\TH_KTLT\2001207104_Tuan01\HUIT_THKTLT_Week1\Bai13.cpp(6,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\Zalo\TH_KTLT\2001207104_Tuan01\HUIT_THKTLT_Week1\Bai13.cpp(10,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  Bai14.cpp
+D:\Zalo\TH_KTLT\2001207104_Tuan01\HUIT_THKTLT_Week1\Bai14.cpp(34,20): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+D:\Zalo\TH_KTLT\2001207104_Tuan01\HUIT_THKTLT_Week1\Bai14.cpp(37,20): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+D:\Zalo\TH_KTLT\2001207104_Tuan01\HUIT_THKTLT_Week1\Bai14.cpp(17,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Zalo\TH_KTLT\2001207104_Tuan01\HUIT_THKTLT_Week1\Bai14.cpp(21,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   2001207014_BuiTranMinhKha_Tuan01.vcxproj -> D:\Zalo\TH_KTLT\2001207104_Tuan01\HUIT_THKTLT_Week1\Debug\2001207014_BuiTranMinhKha_Tuan01.exe

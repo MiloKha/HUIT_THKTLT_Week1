@@ -1,6 +1,4 @@
-﻿  Bai8.cpp
-D:\Zalo\TH_KTLT\2001207104_Tuan01\HUIT_THKTLT_Week1\Bai8.cpp(11,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\Zalo\TH_KTLT\2001207104_Tuan01\HUIT_THKTLT_Week1\Bai8.cpp(14,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\Zalo\TH_KTLT\2001207104_Tuan01\HUIT_THKTLT_Week1\Bai8.cpp(27,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\Zalo\TH_KTLT\2001207104_Tuan01\HUIT_THKTLT_Week1\Bai8.cpp(122,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  Bai9.cpp
+D:\Zalo\TH_KTLT\2001207104_Tuan01\HUIT_THKTLT_Week1\Bai9.cpp(6,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Zalo\TH_KTLT\2001207104_Tuan01\HUIT_THKTLT_Week1\Bai9.cpp(8,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   2001207014_BuiTranMinhKha_Tuan01.vcxproj -> D:\Zalo\TH_KTLT\2001207104_Tuan01\HUIT_THKTLT_Week1\Debug\2001207014_BuiTranMinhKha_Tuan01.exe
